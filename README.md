@@ -18,6 +18,6 @@ We utilize the **Natural Scenes Dataset (NSD)**. Due to the large size and licen
 
 ### 2. ERGB Dataset (Self-built)
 We introduce the **ERGB dataset**, which contains line art and color information to facilitate edge-color guidance during the reconstruction process.
-- **Download**: You can download the preprocessed ERGB dataset and structural masks here: [[Link to Cloud Storage/Zenodo/Google Drive]]
+- **Download**: You can download the preprocessed ERGB dataset and structural masks here: [[Link to Cloud Storage/Zenodo/Google Drive]](https://github.com/lzq3367785771/Multimodal-Diffusion)
 - **Placement**: Please unzip the content into the `./data/ERGB/` directory.
 
